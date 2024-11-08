@@ -1,0 +1,28 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "PRODUCTS": "Products",
+    "ARTICLES": "Articles",
+    "ABOUT": "Aboute",
+    "CONTACTS": "Contacts"
+  },
+  "STYLE": {
+    "MODERN": "Modern",
+    "CLASSIC": "Classic",
+    "COUNTRY": "Country",
+    "DOORS": "Doors",
+    "ACCESSORIES": "Accessories"
+  },
+  "PRODUCT": {
+    "SHOW_MORE": "Show more",
+    "PRE_ORDER": "Pre order",
+    "ORDER": "Order",
+    "DESCRIPTION": "Description",
+    "STYLE": "Style",
+    "MATERIAL": "Material",
+    "FIREPLACE_WINDOW": "FirePlace window",
+    "WIDTH": "Width",
+    "HEIGHT": "Height",
+    "DEPTH": "Depth"
+  }
+}

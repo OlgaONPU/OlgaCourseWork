@@ -1,0 +1,172 @@
+{
+  "products": {
+    "fireplaces": {
+      "classic": [
+        {
+          "id": "75729DD0-6BDE-4041-9AE7-0010392FF2BF",
+          "type": "Fireplace",
+          "link": "../../assets/img/classic/1/root.jpg",
+          "description": {
+            "title": "Классический камин 1",
+            "width": 120,
+            "height": 120,
+            "depth": 30,
+            "price": 1500
+          },
+          "photos": [
+            "../../assets/img/classic/1/rootfull.jpg",
+            "../../assets/img/classic/1/1.jpg",
+            "../../assets/img/classic/1/2.jpg",
+            "../../assets/img/classic/1/3.jpg"
+          ]
+        },
+        {
+          "id": "0F76BBCF-1E4E-4DB3-AA33-001B0244661B",
+          "type": "Fireplace",
+          "link": "../../assets/img/classic/2/root.jpg",
+          "description": {
+            "title": "Классический камин 2",
+            "width": 130,
+            "height": 130,
+            "depth": 35,
+            "price": 1600
+          },
+          "photos": [
+            "../../assets/img/classic/2/rootfull.jpg",
+            "../../assets/img/classic/2/1.jpg",
+            "../../assets/img/classic/2/2.jpg",
+            "../../assets/img/classic/2/3.jpg",
+            "../../assets/img/classic/2/4.jpg",
+            "../../assets/img/classic/2/5.jpg",
+            "../../assets/img/classic/2/6.jpg"
+          ]
+        }
+        // Добавьте остальные ваши классические камины здесь без изменений
+      ],
+      "modern": [
+        {
+          "id": "E065FCFA-CAAC-497B-8F35-001DA92BF68A",
+          "type": "Fireplace",
+          "link": "../../assets/img/modern/3/root.jpg",
+          "description": {
+            "title": "Современный камин 1",
+            "width": 110,
+            "height": 110,
+            "depth": 25,
+            "price": 1700
+          },
+          "photos": [
+            "../../assets/img/modern/3/1.jpg"
+          ]
+        },
+        {
+          "id": "46CA0C75-6B80-45FE-853A-0022CD436FBF",
+          "type": "Fireplace",
+          "link": "../../assets/img/modern/1/1.jpg",
+          "description": {
+            "title": "Современный камин 2",
+            "width": 115,
+            "height": 115,
+            "depth": 28,
+            "price": 1800
+          },
+          "photos": [
+            "../../assets/img/modern/1/1.jpg",
+            "../../assets/img/modern/1/2.jpg",
+            "../../assets/img/modern/1/3.jpg",
+            "../../assets/img/modern/1/4.jpg",
+            "../../assets/img/modern/1/5.jpg"
+          ]
+        }
+        // Добавьте остальные ваши современные камины здесь без изменений
+      ]
+    },
+    "doors": [
+      {
+        "id": "CDA51C82-E116-4A90-971E-00281A1355D6",
+        "type": "doors",
+        "link": "../../assets/img/doors/1/root.jpg",
+        "description": {
+          "title": "Дверца для камина 1",
+          "width": 70,
+          "height": 80,
+          "depth": 10,
+          "price": 200
+        },
+        "photos": [
+          "../../assets/img/doors/1/1.jpg",
+          "../../assets/img/doors/1/2.jpg",
+          "../../assets/img/doors/1/3.jpg",
+          "../../assets/img/doors/1/4.jpg"
+        ]
+      },
+      {
+        "id": "B3E69BEA-1DA3-4143-9C41-002CE6EFBB05",
+        "type": "doors",
+        "link": "../../assets/img/doors/2/root.jpg",
+        "description": {
+          "title": "Дверца для камина 2",
+          "width": 75,
+          "height": 85,
+          "depth": 12,
+          "price": 220
+        },
+        "photos": [
+          "../../assets/img/doors/2/1.jpg",
+          "../../assets/img/doors/2/2.jpg"
+        ]
+      }
+      // Добавьте остальные ваши дверцы здесь без изменений
+    ],
+    "accessories": [
+      {
+        "id": "EA9082ED-B972-4C6B-B3DF-0040B003B5B0",
+        "type": "accessories",
+        "link": "../../assets/img/accessories/1/root.jpg",
+        "description": {
+          "title": "Набор инструментов для камина",
+          "details": "Включает кочергу, щетку, совок и стойку",
+          "price": 150
+        },
+        "photos": [
+          "../../assets/img/accessories/1/1.jpg",
+          "../../assets/img/accessories/1/2.jpg"
+        ]
+      },
+      {
+        "id": "E93B0921-62F6-4F3B-9870-0041185AB38D",
+        "type": "accessories",
+        "link": "../../assets/img/accessories/2/root.jpg",
+        "description": {
+          "title": "Экран для камина",
+          "details": "Защищает от искр и углей",
+          "width": 80,
+          "height": 60,
+          "price": 100
+        },
+        "photos": [
+          "../../assets/img/accessories/2/1.jpg"
+        ]
+      }
+    ],
+    "heatingSystems": [
+      {
+        "id": "C98B37F4-7161-4D42-ACF2-0057226F4F24",
+        "type": "heatingSystem",
+        "link": "../../assets/img/heatingSystems/1/root.jpg",
+        "description": {
+          "title": "Отопительная система H1",
+          "power": "10kW",
+          "efficiency": "90%",
+          "price": 5000
+        },
+        "photos": [
+          "../../assets/img/heatingSystems/1/1.jpg",
+          "../../assets/img/heatingSystems/1/2.jpg"
+        ]
+      }
+    ]
+  },
+  "ContactInformation": {}
+}
+
